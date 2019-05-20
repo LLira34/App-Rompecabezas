@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Rompecabezas</string>
     <string name="mix">Mezclar</string>
+    <string name="todo">TODO</string>
 </resources>
